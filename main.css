@@ -1,12 +1,14 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
+    width: 100%;
 }
 
 #topDiv {
     background-color:rgba(75, 82, 104, 0.993);
     color: whitesmoke;
     margin-bottom: 0px;
+    width: 100%;
 }
 
 #topDiv h5 {
