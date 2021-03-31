@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+#topDiv {
+    background-color:rgba(75, 82, 104, 0.993);
+    color: whitesmoke;
+    margin-bottom: 0px;
+}
+
+#topDiv h5 {
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+
+.noStyleList {
+    list-style-type: none;
+}
+
+.discType {
+    list-style-type: circle;
+}
+
+#sidePanel {
+    background-color: lightgray;
+}
