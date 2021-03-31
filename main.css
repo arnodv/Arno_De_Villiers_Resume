@@ -16,6 +16,10 @@ body {
     margin-bottom: 0px;
 }
 
+#contentDiv {
+    margin-right: 0px;
+}
+
 .noStyleList {
     list-style-type: none;
 }
