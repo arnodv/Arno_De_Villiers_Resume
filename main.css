@@ -8,6 +8,7 @@ body {
     background-color:rgba(75, 82, 104, 0.993);
     color: whitesmoke;
     margin-bottom: 0px;
+    width: 100vw;
 }
 
 #topDiv h5 {
